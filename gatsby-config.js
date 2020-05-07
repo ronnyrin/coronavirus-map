@@ -11,5 +11,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-react-leaflet',
+    'gatsby-plugin-loadable-components-ssr',
   ],
 };
